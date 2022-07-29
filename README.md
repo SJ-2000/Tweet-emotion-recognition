@@ -19,3 +19,5 @@ STEPS: -
 7. Creating and Training RNN Model
 
 8. Model Evaluation
+
+This project was hosted as/by part of The Coursera Project Network.
